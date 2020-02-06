@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gta-online-finger-hack-master/precache-manifest.ddc48da635b9110ab3d820373795f4e0.js"
+  "/gta-online-finger-hack-master/precache-manifest.787c23d212b55d8aaf6e2563f44ee7bc.js"
 );
 
 self.addEventListener('message', (event) => {
