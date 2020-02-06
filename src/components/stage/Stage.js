@@ -13,7 +13,6 @@ const Stage = ({time, fingerImage, options, selectedOptions, started, showResult
         trim: false,
     });
 
-    console.log(parsedTime)
 
     return(<div className={styles.container}>
 
