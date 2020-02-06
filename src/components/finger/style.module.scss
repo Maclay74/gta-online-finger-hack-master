@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 991px){
+  .container {
+    img {
+      width: 50vw;
+    }
+  }
+}

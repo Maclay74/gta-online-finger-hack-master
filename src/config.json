@@ -1,0 +1,58 @@
+{
+  "fingers": [
+    {
+      "image" : "/img/options/0/finger.png",
+      "options": [
+        { "img": "/img/options/0/finger-0.png", "correct": true },
+        { "img": "/img/options/0/finger-1.png", "correct": false },
+        { "img": "/img/options/0/finger-2.png", "correct": false },
+        { "img": "/img/options/0/finger-3.png", "correct": true },
+        { "img": "/img/options/0/finger-4.png", "correct": false },
+        { "img": "/img/options/0/finger-5.png", "correct": false },
+        { "img": "/img/options/0/finger-6.png", "correct": true },
+        { "img": "/img/options/0/finger-7.png", "correct": true }
+      ]
+    },
+    {
+      "image" : "/img/options/1/finger.png",
+      "options": [
+        { "img": "/img/options/1/finger-0.png", "correct": false },
+        { "img": "/img/options/1/finger-1.png", "correct": false },
+        { "img": "/img/options/1/finger-2.png", "correct": true },
+        { "img": "/img/options/1/finger-3.png", "correct": true },
+        { "img": "/img/options/1/finger-4.png", "correct": false },
+        { "img": "/img/options/1/finger-5.png", "correct": false },
+        { "img": "/img/options/1/finger-6.png", "correct": true },
+        { "img": "/img/options/1/finger-7.png", "correct": true }
+      ]
+    },
+
+    {
+      "image" : "/img/options/2/finger.png",
+      "options": [
+        { "img": "/img/options/2/finger-0.png", "correct": true },
+        { "img": "/img/options/2/finger-1.png", "correct": false },
+        { "img": "/img/options/2/finger-2.png", "correct": true },
+        { "img": "/img/options/2/finger-3.png", "correct": true },
+        { "img": "/img/options/2/finger-4.png", "correct": false },
+        { "img": "/img/options/2/finger-5.png", "correct": true },
+        { "img": "/img/options/2/finger-6.png", "correct": false },
+        { "img": "/img/options/2/finger-7.png", "correct": false}
+      ]
+    },
+
+    {
+      "image" : "/img/options/3/finger.png",
+      "options": [
+        { "img": "/img/options/3/finger-0.png", "correct": true },
+        { "img": "/img/options/3/finger-1.png", "correct": false },
+        { "img": "/img/options/3/finger-2.png", "correct": false },
+        { "img": "/img/options/3/finger-3.png", "correct": true },
+        { "img": "/img/options/3/finger-4.png", "correct": true },
+        { "img": "/img/options/3/finger-5.png", "correct": false },
+        { "img": "/img/options/3/finger-6.png", "correct": true },
+        { "img": "/img/options/3/finger-7.png", "correct": false}
+      ]
+    }
+  ]
+}
