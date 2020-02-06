@@ -1,12 +1,14 @@
 {
   "name": "gta-fingerhack",
   "version": "0.1.0",
+  "homepage": "https://mikecoon.github.io/gta-online-finger-hack-master",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.2.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
     "momentjs": "^2.0.0",
@@ -19,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
