@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gta-online-finger-hack-master/static/css/main.192a6ffa.chunk.css",
-    "main.js": "/gta-online-finger-hack-master/static/js/main.e3cfa93f.chunk.js",
-    "main.js.map": "/gta-online-finger-hack-master/static/js/main.e3cfa93f.chunk.js.map",
+    "main.css": "/gta-online-finger-hack-master/static/css/main.7f2bbbcf.chunk.css",
+    "main.js": "/gta-online-finger-hack-master/static/js/main.63c058a9.chunk.js",
+    "main.js.map": "/gta-online-finger-hack-master/static/js/main.63c058a9.chunk.js.map",
     "runtime-main.js": "/gta-online-finger-hack-master/static/js/runtime-main.8a3997e3.js",
     "runtime-main.js.map": "/gta-online-finger-hack-master/static/js/runtime-main.8a3997e3.js.map",
     "static/js/2.43e66a1a.chunk.js": "/gta-online-finger-hack-master/static/js/2.43e66a1a.chunk.js",
     "static/js/2.43e66a1a.chunk.js.map": "/gta-online-finger-hack-master/static/js/2.43e66a1a.chunk.js.map",
     "index.html": "/gta-online-finger-hack-master/index.html",
-    "precache-manifest.787c23d212b55d8aaf6e2563f44ee7bc.js": "/gta-online-finger-hack-master/precache-manifest.787c23d212b55d8aaf6e2563f44ee7bc.js",
+    "precache-manifest.d1da1491933ae67f8d1a8a804f45f628.js": "/gta-online-finger-hack-master/precache-manifest.d1da1491933ae67f8d1a8a804f45f628.js",
     "service-worker.js": "/gta-online-finger-hack-master/service-worker.js",
-    "static/css/main.192a6ffa.chunk.css.map": "/gta-online-finger-hack-master/static/css/main.192a6ffa.chunk.css.map",
+    "static/css/main.7f2bbbcf.chunk.css.map": "/gta-online-finger-hack-master/static/css/main.7f2bbbcf.chunk.css.map",
     "static/js/2.43e66a1a.chunk.js.LICENSE.txt": "/gta-online-finger-hack-master/static/js/2.43e66a1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a3997e3.js",
     "static/js/2.43e66a1a.chunk.js",
-    "static/css/main.192a6ffa.chunk.css",
-    "static/js/main.e3cfa93f.chunk.js"
+    "static/css/main.7f2bbbcf.chunk.css",
+    "static/js/main.63c058a9.chunk.js"
   ]
 }

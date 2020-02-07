@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9007d38172268677e3afcc2567b3d94",
+    "revision": "1d2515ce5d46e69d78435306fc549f10",
     "url": "/gta-online-finger-hack-master/index.html"
   },
   {
-    "revision": "15e066b65848e289f0c0",
-    "url": "/gta-online-finger-hack-master/static/css/main.192a6ffa.chunk.css"
+    "revision": "916097a2cf6223dd5083",
+    "url": "/gta-online-finger-hack-master/static/css/main.7f2bbbcf.chunk.css"
   },
   {
     "revision": "56c795ade577e197272b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gta-online-finger-hack-master/static/js/2.43e66a1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15e066b65848e289f0c0",
-    "url": "/gta-online-finger-hack-master/static/js/main.e3cfa93f.chunk.js"
+    "revision": "916097a2cf6223dd5083",
+    "url": "/gta-online-finger-hack-master/static/js/main.63c058a9.chunk.js"
   },
   {
     "revision": "12f624221f9f78281215",
