@@ -8,4 +8,4 @@ There are only four fingerprints, so it usually takes a few hours to remember th
 This tool is mobile-friendly, so you can add it to your home screen and it will work even without internet connection,
 just like native application. 
 
-[Open service](https://mikecoon.github.io/gta-online-finger-hack-master/)
+[Open service](https://maclay74.github.io/gta-online-finger-hack-master/)
